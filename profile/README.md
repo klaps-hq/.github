@@ -1,6 +1,6 @@
 # Klaps
 
-![Klaps](./klaps-og.png)
+![Klaps](./klaps-bg.png)
 
 Klaps is a modern movie discovery platform built to help people quickly find great films worth watching.
 
