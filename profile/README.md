@@ -27,7 +27,7 @@ I lead product direction, architecture, implementation, and continuous improveme
 
 - `klaps.space` - Frontend application focused on discovery and browsing experience.
 - `api.klaps.space` - Backend services and public API powering app data and integrations.
-- `klaps.notify` - Automation service for social distribution and audience updates.
+- `klaps.radar` - Automation service for social distribution and audience updates.
 
 ## Current Focus
 
